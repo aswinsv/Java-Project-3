@@ -1,0 +1,30 @@
+Project #3 Activity #1
+Create a working program that can answer the following questions: can I count the number of files in the log provided? & can I count user changes and work with dates?   Use the log file I provide.  Output to the monitor after processing the data:
+
+How many files are in the logging data?
+Which file has the most number of revisions?
+Which file has the most number of users committing things to it?
+What’s the earliest commit to a file?
+What user has the most number of commits?
+EDIT: Some students are confused regarding if you are finding the earliest commit to a file and which user has the most commits for the entire log or per file.  I want BOTH!!!  I have updated the sample output below to reflect this.  Keep in mind the design of the output is your choosing.
+
+Submit your source code and byte code [filenames = P3A1_LASTNAME_AndrewID.java & P3A1_LASTNAME_AndrewID.class, plus any other files your program needs to run -- named with the same naming convention ] along with your UML class diagram [filename = P3A1_LASTNAME_UML.xyz] through Blackboard.
+
+You may submit multiple source code and corresponding class files to complete this activity.  Be sure to include the prefix to the classname.  You may resubmit as many times as you like up to, the due date/time.  All work must be submitted via Blackboard.
+
+If working with external text files for reading, prompt the end user for any file names required.  No hard coding file names into your code.  Be sure to use error exception handling for any file I/O you perform!!!  If working with any external text files, be sure to submit your text files as well!
+
+Please keep in mind that you cannot skip activities.  You work at your own pace.
+
+Suggested output design:
+
+Activity 1 output:
+
+# of files: {number of files}
+File with the most # of revisions: {filename(s)}
+File with the most # of users committing: {filename(s)}
+Earliest commit to a file: {filename & date}
+user(s) with most commits per log: {user} &  num of commits of this user: {#} 
+        //—list of files----
+
+       <file name>, <earliest commit of this file>, <user(s) with most commits>, <num of commits by this user>

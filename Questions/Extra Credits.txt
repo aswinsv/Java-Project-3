@@ -1,0 +1,8 @@
+Activity 3:  5 extra credit points possible if your program provides a menu to the end user to select his or her own time chunk option (such as quarterly time chunks or yearly time chunks).
+
+Activity 3:  10 extra credit points possible if your program takes as input the time chunk the end user wants.
+
+Points to remember:
+
+commit ID means nothing, as the older version of the software did not assign a commit ID to a revision.  Count revisions.
+activity 1 was updated at the beginning of this week to provide a more explicit potential output format, since some students requested a more specific design be provided

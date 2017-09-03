@@ -1,0 +1,6 @@
+
+
+javac WriteCSV_OpenCSV.java -cp opencsv-3.10.jar
+
+java -cp .;opencsv-3.10.jar WriteCSV_OpenCSV
+

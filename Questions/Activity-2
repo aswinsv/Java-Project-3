@@ -1,0 +1,13 @@
+Create a working program that can answer the following question:  can I work with CSV files using OpenCSV library?  Use the log file I provide.  Output to a CSV file the following after processing the data:
+
+First column: the name of every file changed
+Second column: Number of commits
+Third column: First date of commit
+Fourth column: Last date of commit
+Submit your source code and byte code [filenames = P3A2_LASTNAME_AndrewID.java & P3A2_LASTNAME_AndrewID.class, plus any other files your program needs to run -- named with the same naming convention ] along with your UML class diagram [filename = P3A2_LASTNAME_UML.xyz] through Blackboard.
+
+You may submit multiple source code and corresponding class files to complete this activity.  Be sure to include the prefix to the classname.  You may resubmit as many times as you like up to, the due date/time.  All work must be submitted via Blackboard.
+
+If working with external text files for reading, prompt the end user for any file names required.  No hard coding file names into your code.  Be sure to use error exception handling for any file I/O you perform!!!  If working with any external text files, be sure to submit your text files as well!
+
+Please keep in mind that you cannot skip activities.  You work at your own pace.
